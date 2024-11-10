@@ -1,0 +1,9 @@
+matplotlib
+pandas
+tabulate
+scikit-learn
+wordcloud
+category-encoders
+seaborn
+numpy
+scipy
