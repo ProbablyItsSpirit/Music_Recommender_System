@@ -6,4 +6,5 @@ wordcloud
 category-encoders
 seaborn
 numpy
+pyarrow
 scipy
